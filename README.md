@@ -1,4 +1,3 @@
-# Tableau Dashboard
 # Halloween Vision & Visitor Analysis
 
 **🎃Project Overview**
