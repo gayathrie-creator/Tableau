@@ -1,5 +1,5 @@
 # Tableau Dashboard
-# Halloween Vision & Visitor Analysis
+# 1. Halloween Vision & Visitor Analysis
 
 **🎃Project Overview**
 
@@ -36,7 +36,7 @@ The main objective of this project is to analyze Halloween visitor data and pres
 Explore the interactive Tableau dashboard here:
 [View Dashboard](https://public.tableau.com/views/HalloweendashboradATTRACTDASHBOARD/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-# Bank Customer Churn Ananysis Dashboard
+# 2. Bank Customer Churn Ananysis Dashboard
 
 **📌 Project Overview**
 
